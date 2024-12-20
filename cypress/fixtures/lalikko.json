@@ -1,0 +1,22 @@
+{
+    "user1": {
+      "name": "Lali Goletiani",
+      "email": "lgoletiani117f311@gmail.com",
+      "password": "pparoli123",
+      "dob": "1990-01-01",
+      "firstName": "Lali",
+      "lastName": "Goletiani",
+      "company": "lala",
+      "address1": "123 Main Street",
+      "address2": "rrr",
+      "country": "United States",
+      "state": "ho",
+      "city": "Los Angeles",
+      "zipcode": "01",
+      "mobile": "121212"
+    },
+    "user2": {
+      "email": "invalid@example.com",
+      "password": "wrongpassword"
+    }
+  }
